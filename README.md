@@ -9,7 +9,7 @@ log4j burp插件
 ## 0x02 基于域名的唯一性，将host带入dnslog中
 ![image](https://user-images.githubusercontent.com/48286013/145577883-e0b6d506-5196-4edf-af76-8deaec8d57fc.png)
 
-插件主要分为五种形式：
+插件主要识别五种形式：
 
 1.get请求，a=1&b=2&c=3  
 
