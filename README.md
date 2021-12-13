@@ -1,3 +1,4 @@
+### 由于Python语言导致插件运行不是很顺畅，写了个Java版本的，移步至[log4j2burpscanner](https://github.com/f0ng/log4j2burpscanner)
 # log4jscanner
 log4j burp插件
 
